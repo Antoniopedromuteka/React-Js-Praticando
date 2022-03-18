@@ -1,0 +1,33 @@
+
+
+
+
+
+.header-menu{
+    position: fixed;
+    z-index: 100;
+    width:100%;
+    height: 100px;
+    background: rgb(2, 5, 19);
+    color:#fff;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 1.5rem;
+
+}
+
+.logo{
+    margin-left: 0.9rem;
+}
+
+.menu > ul{
+    display: flex;
+    list-style-type: none;
+    margin-right: 1.5rem;
+}
+.menu > ul li{
+    margin-left: 0.5rem;    
+}
+

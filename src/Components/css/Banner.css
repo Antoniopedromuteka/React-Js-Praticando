@@ -1,0 +1,16 @@
+
+
+
+
+.Container-Banner{
+    width: 80%;
+    margin-left: 20%;
+    height: 600px;
+    background: url(https://cdn.pixabay.com/photo/2020/06/19/22/33/wormhole-5319067_960_720.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+         
+}
+
+ 

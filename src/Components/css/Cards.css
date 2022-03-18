@@ -1,0 +1,40 @@
+
+
+
+.Container-Cards{
+    width: 80%;
+    height: 400px;
+    margin-left:20%;
+    background: rgb(2, 5, 19);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+.card{
+    width: 200px;
+    height: 300px;
+       
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+      
+}
+
+
+.card:nth-child(1){
+    background-image: url(https://scontent.flad2-1.fna.fbcdn.net/v/t39.30808-6/275030098_2129046613912758_8182625923076127266_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGfsVIZof3NFlj-DkvLPn52N4tnlvct14o3i2eW9y3Xik8dDMwYy3EWe3yIxGFaaHLQAJXBjPatv3-gBD20OaDO&_nc_ohc=k3HJ9lAA7f4AX8pDlNX&_nc_ht=scontent.flad2-1.fna&oh=00_AT9xePkovnwi-im1vecOUa8_QKnbqdHTTitu709FE8yzjQ&oe=6239F2A7);
+}
+
+.card:nth-child(2){
+    background-image: url(https://scontent.flad2-1.fna.fbcdn.net/v/t39.30808-6/274699036_2127084737442279_5363053303583725177_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=174925&_nc_eui2=AeF30kqkSErTj_4Z6cmCfWKL8Of46FInYTHw5_joUidhMZrKmj3rVpNf4A4Rr6jWXjK6WrcpeQvM4tCFsom9w3yI&_nc_ohc=UZOOYtBdru8AX_F6qyA&tn=ArNl5hNsgyIjnIAA&_nc_ht=scontent.flad2-1.fna&oh=00_AT_03UGbtqLLCm-hn2P9QkZY059F-6csCdDGcyr_By2u1g&oe=6238F479);
+}
+
+.card:nth-child(3){
+    background-image: url(https://scontent.flad2-1.fna.fbcdn.net/v/t39.30808-6/273123405_2105958962888190_7966321839014626870_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=174925&_nc_eui2=AeHaQu9QeCFic6uQeV_o9c5oJ49UIQ8x0F0nj1QhDzHQXcdvMwx3yIVNfBCFSpSmKIHt7_lIkdlCG6tYCHa12Uo2&_nc_ohc=w7MGVAnq-XwAX-nzxsN&_nc_oc=AQmR-_LgF4wM3mnEkuYbm_vmneLFCQ1uICW6OeL_JCuhktP6gqne6MOLGva0dbbwAyc&_nc_ht=scontent.flad2-1.fna&oh=00_AT9ZMQUaXhXIqgpI_iezRTQtslKsP7sQq-kcfJXwU46BYA&oe=62391E08);
+}
+
+.card:nth-child(4){
+    background-image: url(https://scontent.flad2-1.fna.fbcdn.net/v/t39.30808-6/270842124_2082405378576882_7525399146520676092_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=174925&_nc_eui2=AeFg_ioQJOqvO9oQyH_0t9K2TmDXMF9gf7lOYNcwX2B_uWyabzCOklcZQYjHPbfV0p-KN_P0ja3jNLZX-HLJs3t3&_nc_ohc=k8xs_hnpUvQAX9m_MwU&tn=ArNl5hNsgyIjnIAA&_nc_ht=scontent.flad2-1.fna&oh=00_AT8Z8FHQQDCrOwv8V-yiTnVpl6XvHNk9nKmIJOHHb-_rYw&oe=623AC7EA);
+}
